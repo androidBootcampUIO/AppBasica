@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AppBasica</string>
     <string name="imagen_jpg">Este es un jpg de diferentes tamaños, según la resolución del dispositivo.</string>
+    <string name="imagen_vector">Esta es una imagen vectorial.</string>
 </resources>
