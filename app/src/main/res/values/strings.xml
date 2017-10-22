@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppBasica</string>
+    <string name="imagen_jpg">This is a jpg image of different sizes depending on the resolution of the device.</string>
 </resources>
